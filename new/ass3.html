@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechFusion 2024</title>
+</head>
+<body>
+    <form>
+        <h4>Personal Details :</h4>
+        <lable for="firstname">First Name</lable>
+        <input type="text" id="firstname" placeholder="Enter First Name" required/>
+        <lable for="lastname">Last Name</lable>
+        <input type="text" id="lastname" placeholder="Enter Last Name" required/><br/>
+        <lable for="email">Email</lable>
+        <input type="email" id="email" placeholder="Enter Email" required/>
+        <lable for="phoneNumber">Phone No</lable>
+        <!-- <input type="phone" id="phone" name="phone"  maxlength="10" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required/> -->
+        <!-- <input type="text" id="phoneNumber" name="phone" maxlength="10" onkeypress="return event.charCode>=48 && event.charCode>=57"  required/> -->
+        <input type="number" id="phoneNumber" name="phone" required/>
+        <small>Format: 123-456-7890</small>
+        <h4>Profile Type :</h4>
+        
+        <fieldset>
+            <legend>Choose type of attendee you are </legend>
+            <input type="radio" id="Pro" name="attendee" value="K" />
+            <label for="Pro">Professional</label>
+            <br />
+            <input type="radio" id="Student" name="attendee" value="S" />
+            <label for="Student">Student</label>
+            <br />
+            <input type="radio" id="Enthusiast" name="attendee" value="M" />
+            <label for="Enthisiast">Enthisiast</label>
+        </fieldset>
+        <h4>Areas of Interest :</h4>
+        <label>Select primary domain of interest.</label>
+        <select>
+            <option value="" disabled selected >select</option>
+            <option  placeholder="select" value="web">Web Development</option>
+            <option  placeholder="select" value="data">Data Science</option>
+            <option  placeholder="select" value="cloud">Cloud Computing</option>
+            <option  placeholder="select" value="Artificial">Artificial Intelligence</option>
+            <option  placeholder="select" value="cyber">Cybersecurity</option>
+        </select>
+        <h4>Workshops :</h4>
+        <fieldset>
+            <legend>Choose type of attendee you are </legend>
+            <input type="checkbox" id="Intro" name="workshop1" />
+            <label for="Intro">Intro to Quantum Computing</label>
+            <br />
+            <input type="checkbox" id="Virtual" name="workshop2" />
+            <label for="Virtual">Virtual Reality on the Web</label>
+            <br />
+            <input type="checkbox" id="Cybersecurity" name="workshop3" />
+            <label for="Cybersecurity">Cybersecurity 101</label>
+        </fieldset>
+        <h4> Additional Information :</h4>
+        <label for="infor">Discription</label>
+        <textarea rows="5",colms="5" id="infor" maxlength="300" placeholder="Provide any additional information  you might have"></textarea>
+        <!-- <input rows="5",colms='9' type="textarea"/> -->
+
+        <h4>Preferred Days :</h4>
+        <label>Select which days you want to attend: </label><br/>
+        <Input type="checkbox" id="day1" />
+        <label for="day1">Day1</label><br/>
+        <Input type="checkbox" id="day2" />
+        <label for="day2">Day2</label><br/>
+        <Input type="checkbox" id="day3" />
+        <label for="day3">Day3</label><br/>
+        <h4>Meal Preference :</h4>
+        <legend>Choose Meal type you Preferred </legend>
+            <input type="radio" id="Veg" name="Meal" />
+            <label for="Veg">Vegetarian</label>
+            <br />
+            <input type="radio" id="Noveg" name="Meal" />
+            <label for="Noveg">Non-Vegetarian</label>
+            <br />
+            <input type="radio" id="Vegan" name="Meal1" value="M" />
+            <label for="vegan">Vegan</label><br/>
+            
+            <input type="radio" id="any" name="Meal" />
+            <label for="any">No Preference</label><br/><br/>
+        <input type="checkbox" id="Accepted" name="agrement" required/>
+        <label for="Accepted">I agree to the terms and conditions.</label><br/>
+        <br/><button >Submit</button>
+    </form>
+</body>
+</html>
+
