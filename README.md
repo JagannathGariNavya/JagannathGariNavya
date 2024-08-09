@@ -11,9 +11,9 @@
       happened through open-source.
     </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumithra49&label=Profile%20views&color=0e75b6&style=flat" alt="sumithra49" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JagannathGariNavya&label=Profile%20views&color=0e75b6&style=flat" alt="JagannathGariNavya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumithra49" alt="sumithra49" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JagannathGariNavya" alt="JagannathGariNavya" /></a> </p>
 <h3>About me</h3>
     <hr />
 
