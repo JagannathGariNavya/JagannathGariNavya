@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **about Full Stack Web Development at Masai School.**
 
-- 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb,SQL, HTML, CSS.**
+- 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , PowerBI, Node.js,Express.js, MongoDb,SQL, HTML, CSS.**
 
 - 📫 How to reach me **mailTo:jnavyan12@gmail.com**
 
