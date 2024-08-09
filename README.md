@@ -30,15 +30,15 @@
 <p align="left">
 <a href="https://codepen.io/J-Navya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@t-sumithra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/j-navya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumithrat49" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sumithrat49" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/jnavyan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumithrat49" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="JagannathGariNavya" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/jnavyan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JagannathGariNavya" height="30" width="40" /></a>
 </p>
  <h3>## 🔝 Most Used Languages</h3>
 <hr/>
     <div align="center">
       <img
         alt="languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&layout=compact&hide_border=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagannathGariNavya&layout=compact&hide_border=true&theme=tokyonight"
       />
     </div>
     <br/>
@@ -49,10 +49,10 @@
 <hr/>
 <div style="display: flex;">
     <div style="flex: 1;">
-        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JagannathGariNavya&show_icons=true&locale=en" alt="JagannathGariNavya" /></p>
     </div>
     <div style="flex: 1;">
-        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49" alt="sumithra49" /></p>
+        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JagannathGariNavya" alt="JagannathGariNavya" /></p>
     </div>
 </div>
 
