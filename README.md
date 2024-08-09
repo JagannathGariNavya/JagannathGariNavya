@@ -23,12 +23,12 @@
 
 - 📫 How to reach me **mailTo:jnavyan12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1v9NmyC3jLOQuPqvd7Htqy3NrBQYMRif0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <p align="left">
-<a href="https://codepen.io/J-Navya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@t-sumithra" height="30" width="40" /></a>
+<a href="https://codepen.io/J-Navya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@j-navya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/j-navya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumithrat49" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="JagannathGariNavya" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/jnavyan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JagannathGariNavya" height="30" width="40" /></a>
