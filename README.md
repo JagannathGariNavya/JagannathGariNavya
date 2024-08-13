@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , PowerBI, Node.js,Express.js, MongoDb,SQL, HTML, CSS.**
 
-- 📫 How to reach me **mailTo:jnavyan12@gmail.com**
+- 📫 How to reach me **mailTo:jnavyan12@gmail.com**  and visit my portfolio [https://portfolio-theta-lime-95.vercel.app]
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1v9NmyC3jLOQuPqvd7Htqy3NrBQYMRif0/view?usp=sharing)
 
