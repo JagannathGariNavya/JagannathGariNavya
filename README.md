@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mailTo:jnavyan12@gmail.com**  and visit my portfolio https://portfolio-theta-lime-95.vercel.app
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1v9NmyC3jLOQuPqvd7Htqy3NrBQYMRif0/view?usp=sharing)
+- 📄 You can find my Resume - [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1v9NmyC3jLOQuPqvd7Htqy3NrBQYMRif0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <hr/>
