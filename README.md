@@ -3,17 +3,20 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
  <p>
-      My passion for software lies with dreaming up ideas and making them come
-      true with elegant interfaces. I take great care in the experience,
-      architecture, and code quality of the things I build. I am also an
-      open-source enthusiast and maintainer. I learned a lot from the
-      open-source community and i love how collaboration and knowledge sharing
-      happened through open-source.
+     Highly motivated Full Stack Web Developer with expertise in JavaScript, React.js, HTML, CSS, Java, Power BI, SQL, and
+ MongoDB. Experienced in building solo and collaborative projects. Skilled in designing efficient server-side APIs and optimizing
+ database queries. Strong problem-solving abilities and excellent communication skills. Worked as a Junior Full Stack Developer,
+ starting with a 6-month internship. Implemented a MERN stack payment gateway solution, enhancing transaction efficiency
+ and security.
     </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagannathGariNavya&label=Profile%20views&color=0e75b6&style=flat" alt="JagannathGariNavya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JagannathGariNavya&label=Profile%20views&color=0e75b6&style=flat" alt="NavyaEdulab" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JagannathGariNavya" alt="JagannathGariNavya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JagannathGariNavya" alt="NavyaEdulab" /></a> </p>
+
 <h3>About me</h3>
     <hr />
 
@@ -50,11 +53,22 @@
 <div style="display: flex;">
     <div style="flex: 1;">
         <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JagannathGariNavya&show_icons=true&locale=en" alt="JagannathGariNavya" /></p>
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NavyaEdulab&show_icons=true&locale=en" alt="NavyaEdulab" /></p>
+
     </div>
     <div style="flex: 1;">
         <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JagannathGariNavya" alt="JagannathGariNavya" /></p>
     </div>
 </div>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NavyaEdulab&show_icons=true&locale=en" alt="NavyaEdulab" /></p>
+    </div>
+    <div style="flex: 1;">
+        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaEdulab" alt="NavyaEdulab" /></p>
+    </div>
+</div>
+
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
