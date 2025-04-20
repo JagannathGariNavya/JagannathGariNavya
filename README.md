@@ -11,10 +11,9 @@
     </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagannathGariNavya&label=Profile%20views&color=0e75b6&style=flat" alt="JagannathGariNavya" /> </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavyaEdulab&label=Profile%20views&color=0e75b6&style=flat" alt="NavyaEdulab" /> </p>
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NavyaEdulab&label=Profile%20views&color=0e75b6&style=flat" alt="NavyaEdulab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JagannathGariNavya" alt="JagannathGariNavya" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavyaEdulab" alt="NavyaEdulab" /></a> </p>
 
 <h3>About me</h3>
