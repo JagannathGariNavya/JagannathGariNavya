@@ -56,11 +56,8 @@
 <div style="display: flex;">
     <div style="flex: 1;">
         <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JagannathGariNavya&show_icons=true&locale=en" alt="JagannathGariNavya" /></p>
-
-    </div>
-    <div style="flex: 1;">
-        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JagannathGariNavya" alt="JagannathGariNavya" /></p>
-    </div>
+</div>
+ <div style="display: flex;">
     <div style="flex: 1;">
         <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NavyaEdulab&show_icons=true&locale=en" alt="NavyaEdulab" /></p>
 
