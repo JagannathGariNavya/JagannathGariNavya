@@ -43,6 +43,10 @@
         alt="languages"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagannathGariNavya&layout=compact&hide_border=true&theme=tokyonight"
       />
+     <img
+        alt="languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaEdulab&layout=compact&hide_border=true&theme=tokyonight"
+      />
     </div>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code
@@ -53,11 +57,25 @@
 <div style="display: flex;">
     <div style="flex: 1;">
         <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JagannathGariNavya&show_icons=true&locale=en" alt="JagannathGariNavya" /></p>
-        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NavyaEdulab&show_icons=true&locale=en" alt="NavyaEdulab" /></p>
 
     </div>
     <div style="flex: 1;">
         <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JagannathGariNavya" alt="JagannathGariNavya" /></p>
+    </div>
+    <div style="flex: 1;">
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NavyaEdulab&show_icons=true&locale=en" alt="NavyaEdulab" /></p>
+
+    </div>
+     <div style="flex: 1;">
+        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaEdulab" alt="NavyaEdulab" /></p>
+    </div>
+</div>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JagannathGariNavya&show_icons=true&locale=en" alt="NavyaEdulab" /></p>
+    </div>
+    <div style="flex: 1;">
+        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JagannathGariNavya" alt="NavyaEdulab" /></p>
     </div>
 </div>
 <div style="display: flex;">
