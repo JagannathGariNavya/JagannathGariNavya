@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , PowerBI, Node.js,Express.js, MongoDb,SQL, HTML, CSS.**
 
-- 📫 How to reach me **mailTo:jnavyan12@gmail.com**  and visit my portfolio https://66bc8176450da36b6465c3e9--classy-capybara-ef76e6.netlify.app/
+- 📫 How to reach me **mailTo:jnavyan12@gmail.com**  and visit my portfolio https://portfolio-xyer.vercel.app/
 
 - 📄 You can find my Resume - [https://drive.google.com/file/d/12eeYmm2GMcSHkOgbUkOv80JCgAEXKO0z/view?usp=sharing](https://drive.google.com/file/d/12eeYmm2GMcSHkOgbUkOv80JCgAEXKO0z/view?usp=sharing)
 
