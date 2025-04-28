@@ -22,9 +22,9 @@
 
 - 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , PowerBI, Node.js,Express.js, MongoDb,SQL, HTML, CSS.**
 
-- 📫 How to reach me **mailTo:jnavyan12@gmail.com**  and visit my portfolio https://portfolio-xyer.vercel.app/
+- 📫 How to reach me **mailTo:jnavyan12@gmail.com**  and visit my portfolio [https://navya-portafolio.vercel.app/]
 
-- 📄 You can find my Resume - [https://drive.google.com/file/d/12eeYmm2GMcSHkOgbUkOv80JCgAEXKO0z/view?usp=sharing](https://drive.google.com/file/d/12eeYmm2GMcSHkOgbUkOv80JCgAEXKO0z/view?usp=sharing)
+- 📄 You can find my Resume - [https://drive.google.com/file/d/12eeYmm2GMcSHkOgbUkOv80JCgAEXKO0z/view?usp=sharing](https://drive.google.com/file/d/1wB2EerELIK6RA3b0FQ74tpO_l3CqZix9/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <hr/>
